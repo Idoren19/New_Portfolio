@@ -1,0 +1,251 @@
+* {
+    text-align: center;
+}
+
+header {
+    background-color: aliceblue;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.header {
+color: lightseagreen;
+}
+
+.name {
+    position: relative;
+    top: 40px;
+    font-weight: 600;
+    font-size: 60px;
+    font-family: 'Sacramento', cursive;
+    
+}
+
+.prog {
+    position: relative;
+    top: 20px;
+    font-size: 30px;
+    font-family: 'Orbitron', sans-serif;
+font-family: 'Play', sans-serif;
+font-family: 'Sacramento', cursive;
+font-family: 'Smokum', cursive;
+font-family: 'Titillium Web', sans-serif;
+}
+
+.Image {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.cp {
+    float: left;
+    padding-right: 10px;
+    
+}
+
+.Img {
+    height: 30px;
+    width: 100px;
+}
+
+.cloud1 {
+    position: absolute;
+    right: 200px;
+    margin-top: 30px;
+}
+
+.cloud2 {
+    position: absolute;
+    left: 200px;
+}
+
+.mount {
+    height: 250px;
+    width: 400px;
+    
+}
+.teacher {
+    float: right;
+}
+
+
+.hr {
+    width: 600px;
+    border: 4px solid grey;
+}
+
+.port {
+color: green;
+
+width: fit-content;
+transform: translate(480px, 0px);
+font-size: 30px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 600;
+}
+
+.pothr {
+border: 2px solid lightseagreen;
+margin-top: 5px;
+}
+
+.body_img {
+    height: 320px;
+    width: 320px;
+    padding: 5px;
+    transition: transform .4s;
+}
+
+.body_img:hover {
+    transform: scale(1.1);
+
+}
+
+.ta {
+    text-align: left;
+}
+
+.skills {
+position: absolute;
+top: -50px;
+left: 260px;
+}
+
+.container1 {
+    position: absolute;
+    top: 20px;
+    left: 450px;
+    text-align: center;
+}
+
+.container2 {
+    background-color: rgba(128, 128, 128, 0.218);
+    height: 800px;
+    padding: 50px;
+    transform: translate(0px, 800px);
+
+}
+
+.about {
+    width: 600px;
+    position: absolute;
+    left: 360px;
+    transform: translate(0px, 400px);
+
+}
+
+
+/* div.block {
+    display: block;
+} */
+
+.h1 {
+font-family: 'Orbitron', sans-serif;
+color: lightseagreen;
+font-size: 30px;
+
+}
+
+.h2 {
+    color: lightseagreen;
+    font-family: 'Orbitron', sans-serif;
+font-family: 'Play', sans-serif;
+font-family: 'Sacramento', cursive;
+font-family: 'Smokum', cursive;
+font-family: 'Titillium Web', sans-serif;
+font-size: 15px;
+font-weight: bold;
+}
+
+p {
+    font-size: 12px;
+font-family: 'Orbitron', sans-serif;
+color: rgba(0, 0, 0, 0.659);
+font-weight: bold;
+}
+
+.al {
+text-align: left;
+}
+
+.fs {
+color: rgba(0, 0, 0, 0.659);
+font-family: 'Orbitron', sans-serif;
+
+}
+
+.star {
+    color: rgba(0, 0, 0, 0.519);
+    font-size:xx-small;
+    text-align: center;
+    transform: translate(0px, 45px);
+}
+
+.star1 {
+position: relative;
+left:80px;
+}
+
+.star2 {
+    position: relative;
+    bottom: 120px;
+}
+
+main {
+    position: relative;
+    top: 80px;
+}
+
+.lower_main {
+    transform: translate(0px, 1000px);
+}
+
+.footer {
+    background-color: lightseagreen;
+    position: relative;
+    bottom: 0px;
+    height: 150px;
+    transform: translate(0px, 1200px);
+
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    transform: translate(0px, 30px);
+
+}
+
+a {
+    color:darkslategrey;
+    font-size: small;
+font-family: 'Titillium Web', sans-serif;
+text-decoration: none;
+}
+
+a.contact {
+    color: antiquewhite;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: larger;
+    background-color: lightseagreen;
+    position: relative;
+    top: 50px;
+    left: 160px;
+}
+
+a.contact:hover {
+    background-color:crimson;
+}
+
+.copy {
+    color: white;
+    transform: translate(0px, 60px);
+    font-size: small;
+font-family: 'Titillium Web', sans-serif;
+}
