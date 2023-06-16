@@ -111,13 +111,13 @@ margin-top: 5px;
 .skills {
 position: absolute;
 top: -50px;
-left: 260px;
+left: 250px;
 }
 
 .container1 {
     position: absolute;
     top: 20px;
-    left: 450px;
+    left: 480px;
     text-align: center;
 }
 
@@ -134,19 +134,12 @@ left: 260px;
     position: absolute;
     left: 360px;
     transform: translate(0px, 400px);
-
 }
-
-
-/* div.block {
-    display: block;
-} */
 
 .h1 {
 font-family: 'Orbitron', sans-serif;
 color: lightseagreen;
 font-size: 30px;
-
 }
 
 .h2 {
@@ -162,7 +155,7 @@ font-weight: bold;
 
 p {
     font-size: 12px;
-font-family: 'Orbitron', sans-serif;
+font-family: 'Titillium Web', sans-serif;
 color: rgba(0, 0, 0, 0.659);
 font-weight: bold;
 }
